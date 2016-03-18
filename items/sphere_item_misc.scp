@@ -7,7 +7,7 @@
 // Menasoft & Partners.  All donations and contributions
 // become the property of Menasoft & Partners.
 //****************************************************************************
-// FILE LAST UPDATED: Thursday, October 17, 2013
+// FILE LAST UPDATED: Friday, March 18, 2016
 //
 VERSION=0.56c
 
@@ -234,7 +234,7 @@ ON=@DClick
    SRC.DAMAGE={5 20}
    TIMER=4
 ON=@Timer
-   SPEAK Run away !
+   SAY Run away!
    RETURN 1
 
 [ITEMDEF i_fire_storm]
