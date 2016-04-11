@@ -538,6 +538,6 @@ description=Wheat Cottage
 multiregion=-4,-5,4,5
 component=06ad, 4, 0, 0
 component=0b9b, 5, -4, 1
-component=i_sign_brass_2, 5, -4, 0
+component=i_sign_brass, 5, -4, 0
 
 [eof]
